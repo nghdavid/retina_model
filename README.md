@@ -1,5 +1,6 @@
 # retina_model
-此專案為我的碩士論文
+此專案為我的碩士論文(視網膜對動態視覺的預測資訊的編碼)所使用到模擬視網膜與分析數據的程式。主要使用Python與Jupyter notebook。  
+在這些程式中使用許多資料科學相關的套件(numpy,scipy,matplotlib,math)  
 
 
 
